@@ -1,0 +1,4 @@
+name: helper
+version: ${project.version}
+main: helper.jsoncmd.helper
+authors: [ jsoncmd, iloveu ]
